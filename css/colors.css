@@ -1,5 +1,8 @@
 :root {
 	--clr-page-text: #111111;
+	--clr-page-light-text: #ffffff;
 	--clr-page-bg: #fafafa;
 	--clr-page-accent: #fd9222;
+	--clr-page-accent-transparent: #fcf1e0;
+	--clr-page-button-border: #ffffff;
 }
